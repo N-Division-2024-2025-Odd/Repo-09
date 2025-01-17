@@ -128,9 +128,10 @@ git clone https://github.com/yourusername/dough-flattening-machine.git
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-- Project Supervisor: [Name]
-- Department of [Your Department]
-- [Your University Name]
+- Project Supervisor: Nandish Hambi 
+- Department of E&C
+- KLE Technological University
+
 
 ## Project Status
  Core functionality complete
