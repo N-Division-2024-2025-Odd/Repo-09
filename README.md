@@ -132,11 +132,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Department of [Your Department]
 - [Your University Name]
 
-## Contact
-- [Your Name]
-- Email: your.email@example.com
-- Project Link: https://github.com/yourusername/dough-flattening-machine
-
 ## Project Status
  Core functionality complete
  Testing phase
